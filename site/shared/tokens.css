@@ -1,0 +1,16 @@
+:root {
+  --ink:#152720;
+  --marine:#102f35;
+  --teal:#1c5157;
+  --paper:#f7f3eb;
+  --white:#fffcf5;
+  --sand:#eee1c9;
+  --gold:#95682e;
+  --muted:#435951;
+  --line:#c7c7b5;
+  --focus:#ad5b26;
+  --sans:"Segoe UI",system-ui,sans-serif;
+  --arabic:"Segoe UI",Tahoma,Arial,sans-serif;
+  --display:Georgia,"Times New Roman",serif;
+}
+

@@ -1,0 +1,1 @@
+{"name":"ramsa","private":true,"type":"module","scripts":{"check":"node scripts/check.mjs","start":"node scripts/serve.mjs"}}
